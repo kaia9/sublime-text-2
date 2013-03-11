@@ -1,0 +1,7 @@
+[
+    { "keys": ["super+shift+f"], "command": "toggle_side_bar" },
+    { "keys": ["super+shift+f4"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+    { "keys": ["super+shift+>"], "command": "indent" },
+    { "keys": ["super+shift+<"], "command": "unindent" },
+    { "keys": ["super+shift+t"], "command": "delete_trailing_spaces" }
+]

@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/Monokaia.tmTheme",
+	"font_size": 15.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 2,
+	"tab_size": 4,
+	"theme": "Nil.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
